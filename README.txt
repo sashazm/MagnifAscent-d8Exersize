@@ -1,1 +1,1 @@
-This is an exersize site that was created following Build-A-Module site builder course. Although the course was made for Drupal7 I decided to build my site in Drupal8 so that I could learn some key simillarities and differences between the two. 
+This is an exersize site that was created following Build-A-Module site builder course for Drupal7. I chose to build with Drupal8 instead in order to further challange myself, and to learn some of the key differences and similarities between D7 and D8. 
